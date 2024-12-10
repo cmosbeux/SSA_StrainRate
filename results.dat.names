@@ -1,0 +1,12 @@
+Metadata for SaveScalars file: ./results.dat
+Elmer version: 9.0
+Elmer revision: c14381c87
+Elmer compilation date: 2023-10-30
+Solver input file: ismip_ssa_2d_weertman.sif
+File started at: 2024/12/10 11:59:42
+ 
+Variables in columns of matrix: 
+   1: int: ssavelocity
+   2: max: ssavelocity
+   3: min: ssavelocity
+   4: value: cpu time (s)
